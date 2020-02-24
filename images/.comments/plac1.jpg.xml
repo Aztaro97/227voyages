@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>3D desert scene with pyramids</caption>
+  <note>3D render of an arid desert scene with pyramids</note>
+  <place/>
+  <categories>
+    <category value="3d"/>
+    <category value="render"/>
+    <category value="desert"/>
+    <category value="oasis"/>
+    <category value="palm tree"/>
+    <category value="water"/>
+    <category value="dune"/>
+    <category value="sand dune"/>
+    <category value="tropical"/>
+    <category value="sky"/>
+    <category value="nature"/>
+    <category value="3d landscape"/>
+    <category value="illustration"/>
+    <category value="background"/>
+    <category value="tree"/>
+    <category value="sandy"/>
+    <category value="sahara"/>
+    <category value="beach"/>
+    <category value="egypt"/>
+    <category value="pyramids"/>
+    <category value="tomb"/>
+  </categories>
+</comment>
